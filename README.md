@@ -1,4 +1,4 @@
-# Preserving Parameter Privacy for Mixed-Autonomy Traffic
+# Preserving Parameter Privacy for Mixed-Autonomy Platoon
 Code for the paper "A Parameter Privacy-Preserving Strategy for Mixed-Autonomy Platoon Control" (Transportation Research Part C)
 [[PDF](https://arxiv.org/abs/2401.15561)]
 
